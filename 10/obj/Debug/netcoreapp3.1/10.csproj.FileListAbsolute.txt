@@ -1,0 +1,11 @@
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\bin\Debug\netcoreapp3.1\10.exe
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\bin\Debug\netcoreapp3.1\10.deps.json
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\bin\Debug\netcoreapp3.1\10.runtimeconfig.json
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\bin\Debug\netcoreapp3.1\10.runtimeconfig.dev.json
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\bin\Debug\netcoreapp3.1\10.dll
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\bin\Debug\netcoreapp3.1\10.pdb
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\obj\Debug\netcoreapp3.1\10.csprojAssemblyReference.cache
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\obj\Debug\netcoreapp3.1\10.AssemblyInfoInputs.cache
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\obj\Debug\netcoreapp3.1\10.AssemblyInfo.cs
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\obj\Debug\netcoreapp3.1\10.dll
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\10\obj\Debug\netcoreapp3.1\10.pdb
